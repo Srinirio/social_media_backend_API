@@ -1,0 +1,8 @@
+fastapi[standard]
+pyjwt
+passlib[bcrypt]
+python-multipart
+alembic
+pydantic
+pydantic_settings
+pymysql

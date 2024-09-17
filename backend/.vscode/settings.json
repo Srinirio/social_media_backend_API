@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "fastapi",
+        "ondelete",
+        "onupdate",
+        "passlib",
+        "pydantic",
+        "pymysql",
+        "socialmedia",
+        "sqlalchemy"
+    ]
+}
